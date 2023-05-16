@@ -37,5 +37,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 - [Bootstrap](https://getbootstrap.com)
 - [Your favorite server-side technology or API used for integration]
 
-## Screens
+## Screen shoots
+
 
